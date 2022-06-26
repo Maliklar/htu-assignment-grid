@@ -51,14 +51,18 @@ e. Galler
 
 ## Design
 <figcaption> Full Screen Size </figcaption> 
+<br>
 <img height="600px" src="./design/FullScreen.jpeg" alt="Full Screen Size">
 <br>
 <figcaption> Mobile Screen Size</figcaption> 
+<br>
 <img height="600px" src="./design/MobileScreen_400px_1.jpeg" alt="Mobile Screen Size">
 <br>
 
 <figcaption> Mobile Small Screen Size</figcaption> 
+<br>
 <img height="600px" src= "./design/MobileScreen_Small_2.jpeg" alt="Mobile Screen Small Size">
+<br>
 <br>
 
 # Student Solution
@@ -78,24 +82,31 @@ e. Galler
 
 ## Screen Shots
 <figcaption> Very Large Screen Size</figcaption> 
+<br>
 <img height="600px" src="./design/student/very-large-screen.png" alt="Very Large PC Screen Size">
 <br>
    
 <figcaption> Normal Screen Size</figcaption> 
+<br>
 <img height="600px" src="./design/student/normal-screen.png" alt="Normal PC Screen Size">
 <br>
    
 <figcaption> Mobile Screen Size</figcaption> 
+<br>
 <img height="600px" src="./design/student/mobile-normal-screen.png" alt="Normal Mobile Screen Size">
 <br>
    
 <figcaption> Small Mobile Screen Size</figcaption> 
+<br>
 <img height="600px" src="./design/student/mobile-small-screen.png" alt="Small Mobile Screen Size">
 <br>
 
 <figcaption> Active State</figcaption> 
+<br>
 <img height="600px" src="./design/student/active-state.png" alt="Active State">
 
+<br>
+<br>
 
 ## GitHub Pages
 <a href="https://maliklar.github.io/htu-assignment-grid/">
