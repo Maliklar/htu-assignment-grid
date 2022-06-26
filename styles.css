@@ -1,0 +1,14 @@
+* {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile {}
+
+.gallery {}
