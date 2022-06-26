@@ -28,10 +28,50 @@
             <span><strong>123</strong> Following</span>
         </div>
         <div class="profile-bio">
-            <strong>John Doe</strong>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum eos, sunt vero rem ab eveniet pariatur expedita sit maxime tenetur aspernatur quam placeat illo a voluptates nulla quisquam. Optio, debitis?
+            <strong>John Doe</strong>orem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, culpa numquuam dolorem veilt optio ipsam beatae aliquid praesentium. Corrupti fugiat magni omnis provoident! 😀 😀 😎
         </div>
     </header>
-    <main class="gallery">
+    <main class="gallery-view">
+        <div class="thumb-preview">
+            <i v-if="obj.type == 'gallary'" class="fa fa-clone type" aria-hidden="true"></i>
+
+            <i v-else-if="obj.type == 'video'" class="fa fa-video type" aria-hidden="true"></i>
+
+            <img class="thumb-preview" src="./assets/thumb_1.jpg" />
+            <div class="likes-container">
+                <i class="fa fa-heart likes" aria-hidden="true"> 322</i>
+            </div>
+        </div>
+        <div class="thumb-preview">
+            <i v-if="obj.type == 'gallary'" class="fa fa-clone type" aria-hidden="true"></i>
+
+            <i v-else-if="obj.type == 'video'" class="fa fa-video type" aria-hidden="true"></i>
+
+            <img class="thumb-preview" src="./assets/thumb_1.jpg" />
+            <div class="likes-container">
+                <i class="fa fa-heart likes" aria-hidden="true"> 322</i>
+            </div>
+        </div>
+        <div class="thumb-preview">
+            <i v-if="obj.type == 'gallary'" class="fa fa-clone type" aria-hidden="true"></i>
+
+            <i v-else-if="obj.type == 'video'" class="fa fa-video type" aria-hidden="true"></i>
+
+            <img class="thumb-preview" src="./assets/thumb_1.jpg" />
+            <div class="likes-container">
+                <i class="fa fa-heart likes" aria-hidden="true"> 322</i>
+            </div>
+        </div>
+        <div class="thumb-preview">
+            <i v-if="obj.type == 'gallary'" class="fa fa-clone type" aria-hidden="true"></i>
+
+            <i v-else-if="obj.type == 'video'" class="fa fa-video type" aria-hidden="true"></i>
+
+            <img class="thumb-preview" src="./assets/thumb_1.jpg" />
+            <div class="likes-container">
+                <i class="fa fa-heart likes" aria-hidden="true"> 322</i>
+            </div>
+        </div>
     </main>
 </body>
 
