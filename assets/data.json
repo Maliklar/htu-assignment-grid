@@ -47,6 +47,11 @@
         "image": "thumb_12.jpg",
         "likes": 25,
         "type": null
+    },
+    {
+        "image": "thumb_13.jpg",
+        "likes": 941,
+        "type": "album"
     }
 
 
