@@ -48,3 +48,47 @@ c. Bio
 d. Stats
 
 e. Galler
+
+## Design
+<figcaption> Full Screen Size </figcaption> 
+<img height="600px" src="./design/FullScreen.jpeg" alt="Full Screen Size">
+
+<figcaption> Mobile Screen Size</figcaption> 
+<img height="600px" src="./design/MobileScreen_400px_1.jpeg" alt="Mobile Screen Size">
+
+<figcaption> Mobile Small Screen Size</figcaption> 
+<img height="600px" src= "./design/MobileScreen_Small_2.jpeg" alt="Mobile Screen Small Size">
+
+# Student Solution
+
+
+## Adhere
+* Use accessible CSS Units used are:
+  *  Root Element (rem).
+  *  percentage (%).
+* Profile (Top of screen section) elements take the right order and feel of the screenshots provided by the instructor.
+* Grid elements in both the Profile and Gallery wrap their elements according to the screen size.
+
+## Problems Encountered
+* Aligning items in the profile section as required was difficult.
+* While the design is responsive in the profile part, I am still not sure if its the best approach to take.
+
+
+## Screen Shots
+<figcaption> Very Large Screen Size</figcaption> 
+<img height="600px" src="./design/student/very-large-screen.png" alt="Very Large PC Screen Size">
+<figcaption> Normal Screen Size</figcaption> 
+<img height="600px" src="./design/student/normal-screen.png" alt="Normal PC Screen Size">
+
+<figcaption> Mobile Screen Size</figcaption> 
+<img height="600px" src="./design/student/mobile-normal-screen.png" alt="Normal Mobile Screen Size">
+<figcaption> Small Mobile Screen Size</figcaption> 
+<img height="600px" src="./design/student/mobile-small-screen.png" alt="Small Mobile Screen Size">
+
+<figcaption> Active State</figcaption> 
+<img height="600px" src="./design/student/active-state.png" alt="Active State">
+
+
+## GitHub Pages
+<a href="https://maliklar.github.io/htu-assignment-grid/">
+https://maliklar.github.io/htu-assignment-grid/</a>
