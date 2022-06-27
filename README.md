@@ -71,9 +71,11 @@ e. Galler
 ## Adhere
 * Use accessible CSS Units used are:
   *  Root Element (rem).
+  *  Element (em).
   *  percentage (%).
 * Profile (Top of screen section) elements take the right order and feel of the screenshots provided by the instructor.
 * Grid elements in both the Profile and Gallery wrap their elements according to the screen size.
+* Comments and likes are displayed only on hover or focused state of images.
 
 ## Problems Encountered
 * Aligning items in the profile section as required was difficult.

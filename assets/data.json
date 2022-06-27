@@ -1,56 +1,67 @@
 [{
         "image": "thumb_2.jpg",
         "likes": 247,
+        "comments": 328,
         "type": null
     },
     {
         "image": "thumb_3.jpg",
         "likes": 564,
+        "comments": 11,
         "type": "video"
     },
     {
         "image": "thumb_4.jpg",
         "likes": 369,
+        "comments": 89,
         "type": "album"
     },
     {
         "image": "thumb_5.jpg",
         "likes": 852,
+        "comments": 39,
         "type": "video"
     },
     {
         "image": "thumb_6.jpg",
         "likes": 324,
+        "comments": 10,
         "type": null
     },
     {
         "image": "thumb_7.jpg",
         "likes": 25,
+        "comments": 56,
         "type": "album"
     },
     {
         "image": "thumb_8.jpg",
         "likes": 324,
+        "comments": 2,
         "type": "video"
     },
     {
         "image": "thumb_10.jpg",
         "likes": 712,
+        "comments": 20,
         "type": null
     },
     {
         "image": "thumb_11.jpg",
         "likes": 941,
+        "comments": 34,
         "type": "video"
     },
     {
         "image": "thumb_12.jpg",
         "likes": 25,
+        "comments": 23,
         "type": null
     },
     {
         "image": "thumb_13.jpg",
         "likes": 941,
+        "comments": 87,
         "type": "album"
     }
 
